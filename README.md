@@ -1,6 +1,5 @@
 # Simin AutoClicker
 
-**v3.0 — Goated Edition**  
 A fast, lightweight Windows auto clicker with a modern purple UI, live CPS counter, and animated interface. No installation required.
 
 ---
